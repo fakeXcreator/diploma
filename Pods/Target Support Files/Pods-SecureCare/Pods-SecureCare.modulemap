@@ -1,0 +1,6 @@
+framework module Pods_SecureCare {
+  umbrella header "Pods-SecureCare-umbrella.h"
+
+  export *
+  module * { export * }
+}
